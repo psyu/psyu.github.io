@@ -1,2 +1,2 @@
 # psyu.github.io
-My Website
+These are unofficial minecraft plugins which are extremely dangerous and should not be used in an actual server.
